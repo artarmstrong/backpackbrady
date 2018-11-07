@@ -27,7 +27,6 @@ Twitch.defaultProps = {
   width: '940',
   height: '480',
   channel: 'backpackbrady',
-  layout: 'video'
 }
 
 export default Twitch;
